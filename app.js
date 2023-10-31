@@ -1,4 +1,4 @@
 function sum(){
-    console.log("hello world");
+    console.log("Hey amal");
 }
 sum();
